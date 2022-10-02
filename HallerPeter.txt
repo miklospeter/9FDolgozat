@@ -1,0 +1,9 @@
+git config --global user.email
+git config --global user.name
+git clone "https://github.com/miklospeter/9FDolgozat"
+git pull origin master
+git push origin master
+git commit
+git add
+1. kérdés
+git remote add origin 
