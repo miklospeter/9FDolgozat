@@ -1,0 +1,18 @@
+1. Klónozd le a repository-t a saját gépedre!
+2. Készíts a repository-ban egy új állományt "saját név.txt" néven,
+ahol értelemszerűen a saját nevedet írod bele.
+3. Az állomány tartalmába írd be az összes parancsot, amit használni kell,
+hogy ez az állomány felkerüljön a GitHub repository-ba, valamint válaszolj még a lenti kérdésre!
+-Legyen benne a usernév és email cím megadása is!
+Kérdés: Ha nem klónoztad volna a repository-t, hanem sajátot hoztál volna létre helyileg,
+mit kellett volna a klónozás helyett tenni?
+(Tehát amikor először hozod létre a gépen, majd utána teszed fel, segítek annyit, hogy a "remote"
+szerepel benne)
+4. Ha kész, a txt állományt push-old fel a repository-ba.
+
+FONTOS! Amennyiben nem sikerül feltenni, küldd el emailben nekem a txt-t:
+miklos.peter@outlook.com
+Ez esetben lehet, hogy néhány pontot veszítesz a dolgozatban.
+
+Határidő: 2022.10.04 23:59. Amennyiben valakinek kell plusz idő, írj email-t,
+vagy Messenger-en!
