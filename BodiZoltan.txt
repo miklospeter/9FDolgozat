@@ -16,7 +16,7 @@ git status (ezzel ellenőrzöm hogy a fájl hozzá lett e adva)
 
 git commit –m „leírás” (itt leírjuk hogy mit szereksztettünk, az idézőjelbe azt írja hogy mit csináltuk, ez az én esetemben a Dolgozat szó lesz)
 
-git push origin main (feltölti a helyi repository tartalmát a távoli helyre)
+git push origin master (feltölti a helyi repository tartalmát a távoli helyre)
 
 
 Kérdés:Ha nem klónoztad volna a repository-t, hanem sajátot hoztál volna létre helyileg,
