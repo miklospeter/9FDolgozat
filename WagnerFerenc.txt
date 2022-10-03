@@ -1,0 +1,10 @@
+git config --global user.email"ivacyka12@gmail.com"
+git config --global user.name"WFeree"
+git remote clone https://github.com/miklospeter/9FDolgozat
+git add WagnerFerenc.txt
+git push origin master
+
+Kérdés
+git remote add origin https://github.com/miklospeter/9FDolgozat
+
+
