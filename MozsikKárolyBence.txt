@@ -1,0 +1,20 @@
+git clone https://github.com/miklospeter/9FDolgozat
+Leklónozzuk a repository-t 
+
+git add Mózsik Károly Bence.txt
+
+git commit -m""
+ a scene fájlait feltölti a repository-ba
+
+git  config --global user.name "ide kell a felhasználónév"
+
+
+git  config --global user.email "ide kell az email"
+
+
+git push origin master "feltölti a fájlokat"
+
+
+Kérdések:
+
+git remote add origin https://github.com/miklospeter/9FDolgozat (Nyilván ez repository függő)
