@@ -1,0 +1,16 @@
+Feltöltési lépések: 
+cd \
+git config --global user.name "kkiteman"
+git config --global user.email "Email címünk"
+git clone https://github.com/miklospeter/9FDolgozat
+cd 9FDolgozat
+git add OláhSzabolcs.txt
+git status 
+git branch
+git commit -m "Az üzenet amit szeretnénk hogy a többiek láásanak hogy mi történt a fájjal, pl.: fixáltam egy bugot"
+git push origin main
+
+
+
+Válasz a kérdésre: 
+git add remote origin https://github.com/miklospeter/9FDolgozat
