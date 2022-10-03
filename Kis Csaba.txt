@@ -5,4 +5,6 @@ git pull origin master
 git push origin master
 git commit
 git add
-git remote add origin 
+git branch
+kérdés:
+git remote add origin (https://github.com/[saját user név]/repo neve) a repo-d linkje
