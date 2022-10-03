@@ -1,0 +1,24 @@
+cd Githubdolgozat
+
+cd Githubdolgozat
+
+git config --global user.name "Anti7117"
+
+git config --global user.email "Saját email"
+
+git clone https://github.com/miklospeter/9FDolgozat
+
+cd 9FDolgozat
+
+git add FehervariAntal.txt
+
+git status
+
+git branch
+
+git commit -m "Dolgozat"
+
+git push origin main
+
+Kérdés:
+ git remote add origin https://github.com/miklospeter/9FDolgozat 
