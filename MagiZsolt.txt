@@ -1,0 +1,22 @@
+git clone https://github.com/miklospeter/9FDolgozat
+Leklónozzuk a repository-t a gépünkre
+
+git add Magi Zsolt.txt
+
+git commit -m""
+feltölti a scene fájlait a repository-ba
+
+git  config --global user.name
+Felhasználónév
+
+git  config --global user.email
+Email cím
+
+git push origin master
+Feltöltjük a fájlokat
+
+Kérdések:
+
+Ha új git repository-t akarunk létrehozni:
+
+git remote add origin https://github.com/miklospeter/9FDolgozat (Nyilván ez repository függő)
