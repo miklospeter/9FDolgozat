@@ -1,0 +1,33 @@
+A Githubra Feltöltés Lépései CMD Megnyitásától Kezdve:
+Jegyzetek Zárójelben Vannak
+
+cd ..
+cd ..
+cd Github_Dolgozat 
+
+(Ez a helyes mappa megadásának a parancsai, Github_Dolgozat a mappa amibe mentettem)
+
+(További Fontos Git Parancsok Melyekkel Feltölthetem A Repositoryba A Fájlomat)
+
+git config --global user.name "FMark207" (A ""-be a github nevedet) 
+
+(Vagy git config --global user.emaill "github_email" , de ""-be a saját emailedet)
+ 
+git clone https://github.com/miklospeter/9FDolgozat
+
+cd 9FDolgozat (Mappa neve amelybe beleraktam a saját .txt fájlomat)
+git add FarkasMark.txt
+
+git status
+
+git branch
+
+git commit -m "Dolgozat"
+
+git push origin main (Most a branch neve a main)
+
+(Kérdések:)
+
+-Ha új git repositorit akarunk létrehozni ez első lépséek közé beletartozik, hogy beírjuk a cmd-be, hogy:
+
+git remote add origin https://github.com/miklospeter/9FDolgozat (az útóbbi linknek a saját repository-d linkjének kell lennie!)
