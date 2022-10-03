@@ -1,0 +1,25 @@
+Parancsok sorba:
+
+cd D:\Zoli\programozás\GitHub\ikt (itt adom meg az elérési utat)
+
+git config --global user.name "username" (az idézőjelbe a saját felhasználónevünk kell, nekem ez a Zoli0217)
+
+git config --global user.email "email" (az idézőjelbe a saját email címünk kell, nekem ez a zoltanbodi61@gmail.com)
+
+git clone https://github.com/miklospeter/9FDolgozat (a linkhez mindig a klónozandó repository linkje kell)
+
+cd \9FDolgozat (itt lépek be az adott mappába)
+
+git add "name.txt" (itt adjuk hozzá a fájlt a repositoryhoz, az idézőjelbe a fájl neve és kiterjesztése kell, nekem ez a BodiZoltan.txt)
+
+git branch
+
+git commit –m „leírás” (itt leírjuk hogy mit szereksztettünk, az idézőjelbe azt írja hogy mit csináltuk, ez az én esetemben a Dolgozat szó lesz)
+
+git push origin main (feltölti a helyi repository tartalmát a távoli helyre)
+
+
+Kérdés:Ha nem klónoztad volna a repository-t, hanem sajátot hoztál volna létre helyileg,
+mit kellett volna a klónozás helyett tenni?
+
+Válasz: git remote add origin webcím (a webcím helyére a saját repositorynk URL-ját kell írni)
