@@ -7,7 +7,7 @@ cd 9FDolgozat
 git add OláhSzabolcs.txt
 git status 
 git branch
-git commit -m "Az üzenet amit szeretnénk hogy a többiek láásanak hogy mi történt a fájjal, pl.: fixáltam egy bugot"
+git commit -m "Az üzenet amit szeretnénk hogy a többiek lássanak hogy mi történt a fájjal, pl.: fixáltam egy bugot"
 git push origin main
 
 
