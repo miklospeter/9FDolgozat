@@ -12,7 +12,7 @@ cd 9FDolgozat (itt lépek be az adott mappába)
 
 git add "name.txt" (itt adjuk hozzá a fájlt a repositoryhoz, az idézőjelbe a fájl neve és kiterjesztése kell, nekem ez a BodiZoltan.txt)
 
-git branch
+git status (ezzel ellenőrzöm hogy a fájl hozzá lett e adva)
 
 git commit –m „leírás” (itt leírjuk hogy mit szereksztettünk, az idézőjelbe azt írja hogy mit csináltuk, ez az én esetemben a Dolgozat szó lesz)
 
