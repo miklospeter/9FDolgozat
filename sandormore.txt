@@ -12,6 +12,8 @@
 
 7. git add moresandor.txt (valamiért nem működött) 
 
-8. git pushorigin master 
+8. git push origin master 
+
+9. git push origin main
 
 kérdés git remote add origin https://github.com/miklospeter/9FDolgozat
