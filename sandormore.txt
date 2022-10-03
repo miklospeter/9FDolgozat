@@ -1,0 +1,17 @@
+1. parancssor megnyitása 
+
+2. cd \ 
+
+3. git config --global user.email 
+
+4. git config --global user.name 
+
+5. git clone https://github.com/miklospeter/9FDolgozat 
+
+6. cd 9FDolgozat 
+
+7. git add moresandor.txt (valamiért nem működött) 
+
+8. git pushorigin master 
+
+kérdés git remote add origin https://github.com/miklospeter/9FDolgozat
