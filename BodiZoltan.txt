@@ -8,7 +8,7 @@ git config --global user.email "email" (az idézőjelbe a saját email címünk 
 
 git clone https://github.com/miklospeter/9FDolgozat (a linkhez mindig a klónozandó repository linkje kell)
 
-cd \9FDolgozat (itt lépek be az adott mappába)
+cd 9FDolgozat (itt lépek be az adott mappába)
 
 git add "name.txt" (itt adjuk hozzá a fájlt a repositoryhoz, az idézőjelbe a fájl neve és kiterjesztése kell, nekem ez a BodiZoltan.txt)
 
