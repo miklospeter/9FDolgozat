@@ -1,0 +1,16 @@
+git config --global user.name "b0NdeK"
+git config --global user.email "tothsbenedek@gmail.com"
+git clone "https://github.com/miklospeter/9FDolgozat"
+cd 9FDolgozat
+git pull
+
+Fájl létrehozása
+
+git status
+git add TothSandorBenedek.txt
+git status
+git commit -m "Dolgozat kesz"
+git push
+
+kérdés:
+git remote add origin (https://github.com/[saját user név]/repo neve) 
