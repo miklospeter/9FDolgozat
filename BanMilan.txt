@@ -1,0 +1,27 @@
+Megnyitjuk a parancssort
+Kiválasztunk egy tetszőleges mappát a meghajtón "cd" paranccsal.
+pl. cd Munka <-- ez egy mappa a meghajtón
+
+Megadjuk a gitnek a felhasznalónevünket és az email címünket:
+git config --global user.name
+git config --global user.email
+
+Klónozzuk a git repository-t:
+git clone https://github.com/miklospeter/9FDolgozat.git <--ez a távoli repository linkje
+
+Ezután megjelenik a 9FDolgozat mappa a "Munka" mappában.
+A 9FDolgozat mappába hozzáadunk egy új szöveges dokumentumot "sajátnév.txt" néven.
+
+Utána hozzáadjuk a repohoz:
+git add BanMilan.txt
+
+Megnézzük a branch nevét:
+git branch
+*main <--esetünkben a branch neve main
+
+Végül feltöltjük a távoli repoba a fájlunkat:
+git commit -m "" <-- ez egy szöveges üzenet azaz message amivel informálod a többi embert/munkatársad hogy milyen változtatásokat hajtottál végre az adott fájlon
+git push origin main <-- ez a branch neve, esetünkben a main
+
+Kérdés:
+git add remote origin <-- egy úgynevezett alias-t állítok be a távoli repositorynak erről a gépről úgymond becézem (de nem elnevezem, mert azt nem lehet), https://github.com/miklospeter/9FDolgozat.git <-- a távoli repo linkje.
