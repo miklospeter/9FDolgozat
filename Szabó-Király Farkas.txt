@@ -3,7 +3,7 @@ git add
 git commit -m""
 git  config --global user.name
 git  config --global user.email
-git push origin master
+git push
 
 Válasz: 
        git remote add origin https://github.com/miklospeter/9FDolgozat
