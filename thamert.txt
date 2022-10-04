@@ -1,0 +1,14 @@
+git clone https://github.com/miklospeter/9Fdolgozat
+
+git add
+
+ git commit -m
+
+git  config --global user.nam
+
+ git  config --global user.email
+
+git push
+
+Válasz: 
+  git remote add origin plusz a link
